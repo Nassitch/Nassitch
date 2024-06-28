@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 -->
 
 
-<details open>
+<details>
 <summary>📈 GitHub stat's.</summary>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&bg_color=white)
 </details>
 
-<details open>
+<details>
 <summary>📝 Languages.</summary>
 <br>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 </details>
 
-<details open>
+<details>
 <summary>🛠️ Toolbox.</summary>
 
 Markup language :
