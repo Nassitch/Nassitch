@@ -124,6 +124,6 @@ Here are some ideas to get you started:
 </details>
 
 ## Contact me.
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&style=float)](https://www.nassime-harmach.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](javascript:window.open('https://www.nassime-harmach.com/'))
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white&style=float)](mailto:contact@nassime-harmach.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=float)](https://www.linkedin.com/in/nassime-harmach/)
