@@ -1,5 +1,6 @@
-# Hello I am Nassitch.
-## I learn to programming all days.
+<div style="text-align: center">
+<h1>Hello I am Nassitch.</h1>
+<h2>I learn to programming all days.</h2>
 <br>
 
 <!--
@@ -16,6 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=947BD0&center=true&width=435&lines=Full+stack+developer)](https://git.io/typing-svg)
+<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=947BD0&width=225&lines=Java)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=947BD0&width=125&lines=JavaScript)](https://git.io/typing-svg)
+</div>
 
 
 <details>
