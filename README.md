@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div style="display: flex; flex-direction: column; align-items: center">
 <h1>Hello I am Nassitch.</h1>
 <h2>I learn to programming all days.</h2>
 <br>
