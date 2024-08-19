@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <p style="margin: 15px;" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=947BD0&center=true&width=435&lines=Full+stack+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=947BD0&center=true&width=435&lines=Full+stack+developer." alt="Typing SVG" /></a>
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=947BD0&center=true&width=135&lines=[+Java," alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=947BD0&center=true&width=435&lines=JavaScript+]" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=947BD0&center=true&width=435&lines=[+Java,+JavaScript+]" alt="Typing SVG" /></a>
 </p>
 
 
