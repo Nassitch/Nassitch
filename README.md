@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 <summary>📈 GitHub stat's.</summary>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&bg_color=transparent&text_color=947bd0&title_color=947bd0&border_color=947bd0&icon_color=947bd0)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&theme=transparent&text_color=947bd0&title_color=947bd0&border_color=947bd0&icon_color=947bd0)
 </details>
 
 <details>
 <summary>📝 Languages.</summary>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassitch&layout=compact&title_color=947bd0&border_color=947bd0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassitch&layout=compact&theme=transparent&title_color=947bd0&text_color=947bd0&border_color=947bd0&locale=fr)
 
 
 </details>
