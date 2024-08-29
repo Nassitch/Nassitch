@@ -1,4 +1,4 @@
-<a href="#francais" style="float:right">🇫🇷 Français</a>
+<a href="https://github.com/Nassitch/Nassitch/blob/main/README_FR.md" style="float:right">🇫🇷</a>
 <h1 align="center">Hello I am Nassitch.</h1>
 <h2 align="center">I learn to programming all days.</h2>
 <br>

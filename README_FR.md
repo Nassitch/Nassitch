@@ -1,4 +1,4 @@
-<a href="#anglais" style="float:right">🇬🇧</a>
+<a href="https://github.com/Nassitch/Nassitch/blob/main/README.md" style="float:right">🇬🇧</a>
 <h1 align="center">Bonjour, je suis Nassitch.</h1>
 <h2 align="center">J'apprend chaques jours.</h2>
 <br>
