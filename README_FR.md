@@ -1,4 +1,4 @@
-<a href="https://github.com/Nassitch/Nassitch/blob/main/README.md" style="float:right">🇬🇧</a>
+<a href="https://github.com/Nassitch/Nassitch/blob/main/README.md">🇬🇧</a>
 
 <h1 align="center">Bonjour, je suis Nassitch.</h1>
 
@@ -143,10 +143,11 @@ Here are some ideas to get you started:
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black&style=float)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB&style=float)
 
-
 </details>
 
+[![](https://visitcount.itsvg.in/api?id=Nassitch&label=Vues&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
 ## Contactez-moi.
-#### 💿[Portfolio](https://www.nassime-harmach.com/)
-#### 📧[Mail](mailto:contact@nassime-harmach.com)
-#### 📠[LinkedIn](https://www.linkedin.com/in/nassime-harmach/)
+[![Portfolio](https://img.shields.io/badge/💿-Portfolio-947bd0?style=float)](https://www.nassime-harmach.com/)
+[![Email](https://img.shields.io/badge/📧-Mail-947bd0?style=float)](mailto:contact@nassime-harmach.com)
+[![LinkedIn](https://img.shields.io/badge/📠-LinkedIn-947bd0?style=float)](https://www.linkedin.com/in/nassime-harmach/)

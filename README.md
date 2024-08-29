@@ -1,4 +1,4 @@
-<a href="https://github.com/Nassitch/Nassitch/blob/main/README_FR.md" style="float:right">🇫🇷</a>
+<a href="https://github.com/Nassitch/Nassitch/blob/main/README_FR.md">🇫🇷</a>
 
 <h1 align="center">Hello I am Nassitch.</h1>
 
@@ -143,10 +143,11 @@ Here are some ideas to get you started:
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black&style=float)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB&style=float)
 
-
 </details>
 
+[![](https://visitcount.itsvg.in/api?id=Nassitch&label=Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
 ## Contact me.
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&style=float)](https://www.nassime-harmach.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white&style=float)](mailto:contact@nassime-harmach.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=float)](https://www.linkedin.com/in/nassime-harmach/)
+[![Portfolio](https://img.shields.io/badge/💿-Portfolio-947bd0?style=float)](https://www.nassime-harmach.com/)
+[![Email](https://img.shields.io/badge/📧-Mail-947bd0?style=float)](mailto:contact@nassime-harmach.com)
+[![LinkedIn](https://img.shields.io/badge/📠-LinkedIn-947bd0?style=float)](https://www.linkedin.com/in/nassime-harmach/)
