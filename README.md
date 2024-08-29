@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&theme=transparent&text_color=947bd0&title_color=947bd0&border_color=947bd0&icon_color=947bd0)
+</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nassitch&theme=buefy&date_format=j%2Fn%5B%2FY%5D&card_width=465&stroke=947BD0&background=00000000&border=947BD0&ring=947BD0&fire=947BD0&currStreakNum=947BD0&sideNums=947BD0&currStreakLabel=947BD0&sideLabels=947BD0&dates=947BD0&excludeDaysLabel=947BD0)](https://git.io/streak-stats)</br>
+[![](https://visitcount.itsvg.in/api?id=Nassitch&label=Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 </details>
 
 <details>
@@ -145,7 +148,6 @@ Here are some ideas to get you started:
 
 </details>
 
-[![](https://visitcount.itsvg.in/api?id=Nassitch&label=Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 ## Contact me.
 [![Portfolio](https://img.shields.io/badge/💿-Portfolio-947bd0?style=float)](https://www.nassime-harmach.com/)
