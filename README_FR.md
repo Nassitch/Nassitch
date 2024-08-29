@@ -1,6 +1,20 @@
 <a href="https://github.com/Nassitch/Nassitch/blob/main/README.md" style="float:right">🇬🇧</a>
-<h1 align="center">Bonjour, je suis Nassitch.</h1>
-<h2 align="center">J'apprend chaques jours.</h2>
+
+<h1 style="text-align: center">Bonjour, je suis Nassitch.</h1>
+
+<h3 style="text-align: center">
+J'apprends la programmation au quotidien avec passion et détermination.
+</h3>
+
+<h4 style="text-align: center">
+Programmer est pour moi bien plus qu'une simple activité,
+<br>
+c'est une aventure quotidienne.
+<br>
+Mon parcours est guidé par l'envie de créer des solutions impactantes et élégantes,
+<br>
+de résoudre des problèmes complexes et de grandir chaque jour en tant que développeur.
+</h4>
 <br>
 
 <!--
