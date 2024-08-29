@@ -1,12 +1,12 @@
 <a href="https://github.com/Nassitch/Nassitch/blob/main/README_FR.md" style="float:right">🇫🇷</a>
 
-<h1 style="text-align: center">Hello I am Nassitch.</h1>
+<h1 align="center">Hello I am Nassitch.</h1>
 
-<h3 style="text-align: center">
+<h3 align="center">
 I learn programming daily with passion and determination.
 </h3>
 
-<h4 style="text-align: center">
+<h4 align="center">
 For me, programming is much more than just an activity,
 <br>
 it is a daily adventure.
