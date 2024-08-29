@@ -1,6 +1,6 @@
-<a href="https://github.com/Nassitch/Nassitch/blob/main/README_FR.md" style="float:right">🇫🇷</a>
-<h1 align="center">Hello I am Nassitch.</h1>
-<h2 align="center">I learn to programming all days.</h2>
+<a href="https://github.com/Nassitch/Nassitch/blob/main/README.md" style="float:right">🇬🇧</a>
+<h1 align="center">Bonjour, je suis Nassitch.</h1>
+<h2 align="center">J'apprend chaques jours.</h2>
 <br>
 
 <!--
@@ -26,26 +26,26 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>📈 GitHub stat's.</summary>
+<summary>📈 Statistiques GitHub.</summary>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&theme=transparent&text_color=947bd0&title_color=947bd0&border_color=947bd0&icon_color=947bd0)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&bg_color=white&text_color=947bd0&title_color=947bd0&border_color=947bd0&icon_color=947bd0&locale=fr)
 </details>
 
 <details>
 <summary>📝 Languages.</summary>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassitch&layout=compact&theme=transparent&title_color=947bd0&text_color=947bd0&border_color=947bd0&locale=fr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassitch&layout=compact&title_color=947bd0&border_color=947bd0&locale=fr)
 
 
 </details>
 
 <details>
-<summary>🛠️ Toolbox.</summary>
+<summary>🛠️ Boîte à outils.</summary>
 <br>
 
-- Markup language :
+- Language de balisage :
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge&style=float)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge&style=float)
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge&style=float)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=float)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white&style=float)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white&style=float) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white&style=float)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white&style=float)
 
 - Framework :
@@ -76,32 +76,32 @@ Here are some ideas to get you started:
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white&style=float)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white&style=float)
 
-- Database management :
+- Gestion de base de données :
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&style=float)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&style=float)
 
-- Server :
+- Serveur :
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white&style=float)
 ![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=for-the-badge&style=float)
 
-- Dependency :
+- Dépendence :
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&style=float)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white&style=float)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&style=float)
 
-- Module bundler :
+- Regroupement de module :
 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black&style=float)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white&style=float)
 
-- Terminal :
+- Terminale :
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white&style=float)
 
-- Tool :
+- Outil :
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=float)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=float)
@@ -110,12 +110,12 @@ Here are some ideas to get you started:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&style=float)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&style=float)
 
-- Browser :
+- Navigateur :
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white&style=float)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white&style=float)
 
-- OS :
+- Système d'exploitation :
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&style=float)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=float)
@@ -132,7 +132,7 @@ Here are some ideas to get you started:
 
 </details>
 
-## Contact me.
+## Contactez-moi.
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&style=float)](https://www.nassime-harmach.com/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white&style=float)](mailto:contact@nassime-harmach.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=float)](https://www.linkedin.com/in/nassime-harmach/)
