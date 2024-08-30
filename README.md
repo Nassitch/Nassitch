@@ -148,6 +148,19 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+<summary style="font-size: 1.2rem">👨‍💻 About me</summary>
+
+<ul>
+  <li><b>👤 Name: </b> Juan Pablo Flores</li>
+  <li><b>😄 Pronouns:</b>  He/Him</li>
+  <li><b>📍 Location:</b> Mexico City 🇲🇽</li>
+  <li><b>💼 Job: </b>Program Manager @ <a href="github.com">GitHub</a></li>
+  <li><b>📣 Languages:</b> English & Spanish</li>
+</ul>
+
+</details>
+
 
 ## Contact me.
 [![Portfolio](https://img.shields.io/badge/💿-Portfolio-947bd0?style=float)](https://www.nassime-harmach.com/)
