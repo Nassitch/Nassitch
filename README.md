@@ -1,4 +1,4 @@
-<a href="https://github.com/Nassitch/Nassitch/blob/main/README_FR.md" style="float:right">🇫🇷</a>
+<a href="https://github.com/Nassitch/Nassitch/blob/main/README_FR.md">🇫🇷</a>
 
 <h1 align="center">Hello I am Nassitch.</h1>
 
@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&theme=transparent&text_color=947bd0&title_color=947bd0&border_color=947bd0&icon_color=947bd0)
+</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nassitch&theme=buefy&date_format=j%2Fn%5B%2FY%5D&card_width=465&stroke=947BD0&background=00000000&border=947BD0&ring=947BD0&fire=947BD0&currStreakNum=947BD0&sideNums=947BD0&currStreakLabel=947BD0&sideLabels=947BD0&dates=947BD0&excludeDaysLabel=947BD0)](https://git.io/streak-stats)</br>
+[![](https://visitcount.itsvg.in/api?id=Nassitch&label=Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 </details>
 
 <details>
@@ -143,10 +146,25 @@ Here are some ideas to get you started:
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black&style=float)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB&style=float)
 
-
 </details>
 
+<details>
+<summary>👨‍💻 About me.</summary>
+<br>
+<ul>
+  <li><b>👤 Name: </b> Nassime Harmach.</li>
+  <li><b>👶 Age: </b> 22 years old.</li>
+  <li><b>📍 Location:</b> Bordeaux City. 🇫🇷</li>
+  <li><b>📣 Languages:</b> 🇫🇷 French & 🇬🇧 English.</li>
+  <li><b>🛠️ Passion:</b> Work.</li>
+  <li><b>⌛ Hobbies:</b> 🎮 Video games, 🎱 Billard & 🥣 Cooking.</li>
+  <li><b>🐾️ Animal:</b> 🐕‍🦺 Dog.💕</li>
+  <li><b>📋 Objective: </b> Go to the moon.🚀🚀</li>
+</ul>
+</details>
+
+
 ## Contact me.
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&style=float)](https://www.nassime-harmach.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white&style=float)](mailto:contact@nassime-harmach.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=float)](https://www.linkedin.com/in/nassime-harmach/)
+[![Portfolio](https://img.shields.io/badge/💿-Portfolio-947bd0?style=float)](https://www.nassime-harmach.com/)
+[![Email](https://img.shields.io/badge/📧-Mail-947bd0?style=float)](mailto:contact@nassime-harmach.com)
+[![LinkedIn](https://img.shields.io/badge/📠-LinkedIn-947bd0?style=float)](https://www.linkedin.com/in/nassime-harmach/)

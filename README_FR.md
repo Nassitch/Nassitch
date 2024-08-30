@@ -1,4 +1,4 @@
-<a href="https://github.com/Nassitch/Nassitch/blob/main/README.md" style="float:right">🇬🇧</a>
+<a href="https://github.com/Nassitch/Nassitch/blob/main/README.md">🇬🇧</a>
 
 <h1 align="center">Bonjour, je suis Nassitch.</h1>
 
@@ -43,14 +43,18 @@ Here are some ideas to get you started:
 <summary>📈 Statistiques GitHub.</summary>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&bg_color=white&text_color=947bd0&title_color=947bd0&border_color=947bd0&icon_color=947bd0&locale=fr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nassitch&show_icons=true&bg_color=00000000&text_color=947bd0&title_color=947bd0&bg&border_color=947bd0&icon_color=947bd0&locale=fr)
+</br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nassitch&theme=buefy&locale=fr&date_format=j%2Fn%5B%2FY%5D&card_width=465&stroke=947BD0&background=00000000&border=947BD0&ring=947BD0&fire=947BD0&currStreakNum=947BD0&sideNums=947BD0&currStreakLabel=947BD0&sideLabels=947BD0&dates=947BD0&excludeDaysLabel=947BD0)](https://git.io/streak-stats)
+</br>
+[![](https://visitcount.itsvg.in/api?id=Nassitch&label=Vues&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 </details>
 
 <details>
 <summary>📝 Languages.</summary>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassitch&layout=compact&title_color=947bd0&border_color=947bd0&locale=fr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nassitch&layout=compact&theme=transparent&title_color=947bd0&border_color=947bd0&locale=fr)
 
 
 </details>
@@ -143,10 +147,25 @@ Here are some ideas to get you started:
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black&style=float)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB&style=float)
 
-
 </details>
 
+<details>
+<summary>👨‍💻 À propos de moi.</summary>
+<br>
+<ul>
+  <li><b>👤 Nom: </b> Nassime Harmach.</li>
+  <li><b>👶 Âge: </b> 22 ans.</li>
+  <li><b>📍 Localisation:</b> Bordeaux. 🇫🇷</li>
+  <li><b>📣 Langues:</b> 🇫🇷 Français & 🇬🇧 Anglais.</li>
+  <li><b>🛠️ Passion:</b> Travailler.</li>
+  <li><b>⌛ Hobbies:</b> 🎮 jeux video, 🎱 Billard & 🥣 Cuisiner.</li>
+  <li><b>🐾️ Animale:</b> 🐕‍🦺 Chien.💕</li>
+  <li><b>📋 Objectif: </b> Aller sur la lune.🚀🚀</li>
+</ul>
+</details>
+
+
 ## Contactez-moi.
-#### 💿[Portfolio](https://www.nassime-harmach.com/)
-#### 📧[Mail](mailto:contact@nassime-harmach.com)
-#### 📠[LinkedIn](https://www.linkedin.com/in/nassime-harmach/)
+[![Portfolio](https://img.shields.io/badge/💿-Portfolio-947bd0?style=float)](https://www.nassime-harmach.com/)
+[![Email](https://img.shields.io/badge/📧-Mail-947bd0?style=float)](mailto:contact@nassime-harmach.com)
+[![LinkedIn](https://img.shields.io/badge/📠-LinkedIn-947bd0?style=float)](https://www.linkedin.com/in/nassime-harmach/)
