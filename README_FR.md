@@ -149,6 +149,21 @@ Here are some ideas to get you started:
 
 </details>
 
+<details>
+<summary>👨‍💻 À propos de moi.</summary>
+<br>
+<ul>
+  <li><b>👤 Nom: </b> Nassime Harmach.</li>
+  <li><b>👶 Âge: </b> 22 ans.</li>
+  <li><b>📍 Localisation:</b> Bordeaux. 🇫🇷</li>
+  <li><b>📣 Langues:</b> 🇫🇷 Français & 🇬🇧 Anglais.</li>
+  <li><b>🛠️ Passion:</b> Travailler.</li>
+  <li><b>⌛ Hobbies:</b> 🎮 jeux video, 🎱 Billard & 🥣 Cuisiner.</li>
+  <li><b>🐾️ Animale:</b> 🐕‍🦺 Chien.💕</li>
+  <li><b>📋 Objectif: </b> Aller sur la lune.🚀🚀</li>
+</ul>
+</details>
+
 
 ## Contactez-moi.
 [![Portfolio](https://img.shields.io/badge/💿-Portfolio-947bd0?style=float)](https://www.nassime-harmach.com/)
