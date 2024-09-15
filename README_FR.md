@@ -120,6 +120,7 @@ Here are some ideas to get you started:
 - Cadre de test :
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white&style=float)
+![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white&style=float)
 
 - Outils DevOps :
 
